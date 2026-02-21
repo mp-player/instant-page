@@ -20,7 +20,7 @@ Add the following script before the closing `</body>` tag:
   <div>Your content here</div>
   <script data-src="script.js"></script>
 
-  <!-- Place the script here ->
+  <!-- Place the script here -->
   <script data-request="true" src="http://cdn.jsdelivr.net/gh/mp-player/instant-page@master/dist/1.1/instant-page.min.js" crossorigin="anonymous"></script>
 </body>
 </html>
